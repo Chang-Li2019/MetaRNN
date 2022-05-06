@@ -1,11 +1,11 @@
 # MetaRNN for pathogenicity prediction of nsSNVs and nfINDELs
 
 ## Quick start guide
-1. Download file package:
+1. Download file package (file size: 13G):
     ```
-    wget -c -O MetaRNN.tar.gz 
+    wget -c https://usf.box.com/shared/static/46fsvir38fd7uxcnsdwayde2mga34hl1 -O MetaRNN.tar.gz 
     ```
-    OR open the link in any web browser
+    OR open the save link in any web browser: https://usf.box.com/shared/static/46fsvir38fd7uxcnsdwayde2mga34hl1
   
 2. Extract downloaded folder:
     ```
@@ -20,5 +20,5 @@
     ```
 5. Run example VCF file in hg38 genome assembly:
     ```
-    python ./MetaRNN hg38 test.vcf
+    python ./MetaRNN.py hg38 test.vcf
     ```
