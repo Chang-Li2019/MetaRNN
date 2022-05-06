@@ -3,9 +3,9 @@
 ## Quick start guide
 1. Download file package (file size: 13G):
     ```
-    wget -c https://usf.box.com/shared/static/46fsvir38fd7uxcnsdwayde2mga34hl1 -O MetaRNN.tar.gz 
+    wget -c https://usf.box.com/shared/static/c4656df0rz10vw6z7ra11mkw69ulr9d3 -O MetaRNN.tar.gz 
     ```
-    OR open the save link in any web browser: https://usf.box.com/shared/static/46fsvir38fd7uxcnsdwayde2mga34hl1
+    OR open the save link in any web browser: https://usf.box.com/shared/static/c4656df0rz10vw6z7ra11mkw69ulr9d3
   
 2. Extract downloaded folder:
     ```
