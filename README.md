@@ -24,3 +24,8 @@
     ```
     python ./MetaRNN.py hg38 test.vcf
     ```
+
+## Notes
+
+Supplementary Tables and model analyses associated with the publication are available under folders Data and Notebooks.
+
