@@ -6,6 +6,8 @@
     wget -c https://usf.box.com/shared/static/c4656df0rz10vw6z7ra11mkw69ulr9d3 -O MetaRNN.tar.gz 
     ```
     OR open the save link in any web browser: https://usf.box.com/shared/static/c4656df0rz10vw6z7ra11mkw69ulr9d3
+    
+    OR get it from [figshare](https://figshare.com/articles/software/MetaRNN_Differentiating_Rare_Pathogenic_and_Rare_Benign_Missense_SNVs_and_InDels_Using_Deep_Learning/19742503).
   
 2. Extract downloaded folder:
     ```
